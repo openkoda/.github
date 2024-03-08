@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Openkoda Logo" src="https://github.com/openkoda/openkoda/blob/main/openkoda/src/main/resources/public/vendor/openkoda/openkoda_logo.svg" width="40%"/>
+    <img alt="Openkoda Logo" src="https://github.com/openkoda/.github/assets/14223954/698c333f-4791-4c6b-95d4-aa6eff7dc6d3" width="70%"/>
 </p>
 
 <div align="center">
@@ -41,4 +41,16 @@ Join the Openkoda community to learn from one another and collaborate on buildin
 ### 👋 Let’s connect
 
 Got feedback, questions, or just want to say hi? We'd love to hear from you! [Contact us anytime](https://openkoda.com/contact/).
+
+Dashboard
+<img alt="openkoda-dashboard" src="https://github.com/openkoda/.github/assets/14223954/f67ca5bc-6592-4f08-86eb-c3ed11da5c53"/>
+
+CMS
+<img alt="openkoda-frontendresource-all" src="https://github.com/openkoda/.github/assets/14223954/3e4e5563-53d3-4e7b-9ccf-8a69ea346bc1"/>
+
+Organization Settings
+<img alt="openkoda-organization-settings" src="https://github.com/openkoda/.github/assets/14223954/275135d1-6c99-48fa-9224-008183d02085"/>
+
+Register
+<img alt="openkoda-register" src="https://github.com/openkoda/.github/assets/14223954/0f08ed3b-3365-411b-ae4b-c628028bf00e"/>
 
