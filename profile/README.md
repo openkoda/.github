@@ -42,15 +42,5 @@ Join the Openkoda community to learn from one another and collaborate on buildin
 
 Got feedback, questions, or just want to say hi? We'd love to hear from you! [Contact us anytime](https://openkoda.com/contact/).
 
-Dashboard
-<img alt="openkoda-dashboard" src="https://github.com/openkoda/.github/assets/14223954/f67ca5bc-6592-4f08-86eb-c3ed11da5c53"/>
-
-CMS
-<img alt="openkoda-frontendresource-all" src="https://github.com/openkoda/.github/assets/14223954/3e4e5563-53d3-4e7b-9ccf-8a69ea346bc1"/>
-
-Organization Settings
-<img alt="openkoda-organization-settings" src="https://github.com/openkoda/.github/assets/14223954/275135d1-6c99-48fa-9224-008183d02085"/>
-
-Register
-<img alt="openkoda-register" src="https://github.com/openkoda/.github/assets/14223954/0f08ed3b-3365-411b-ae4b-c628028bf00e"/>
+![openkoda admin](https://github.com/openkoda/.github/assets/14223954/9acded2e-a3e6-4480-805e-7ac38ebdafc0)
 
